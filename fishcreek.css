@@ -24,3 +24,9 @@ footer {
     font-size: .70em;
     font: italic;
 }
+#wrapper {
+    width: 80%;
+    margin-right:auto;
+    margin-left:auto;
+    background-color: #F0F0F0;
+}
